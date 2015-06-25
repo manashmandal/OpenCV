@@ -7,3 +7,4 @@
 * Restart your pc after adding the paths, we will add the last one later
 * After restarting now download [CMake](http://www.cmake.org/) and install and then add the path
 * Now the path is added open the Cmake Gui
+* Add everything
