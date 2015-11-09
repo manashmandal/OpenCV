@@ -8,3 +8,4 @@
 * After restarting now download [CMake](http://www.cmake.org/) and install and then add the path
 * Now the path is added open the Cmake Gui
 * Add everything
+**[Visit This link](http://www.laganiere.name/opencvCookbook/chap1s1_2.shtml) **
