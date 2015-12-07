@@ -41,6 +41,6 @@ C:\opencv3\bin;`
 ```
 * Open python CLI and write this line and then press enter `import cv2`
 * If nothing shows then you've installed opencv correctly both in qt and python
-
+* Check if Numpy and other dependencies are installed correctly
 
   
